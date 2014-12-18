@@ -9,6 +9,9 @@ function app(){
         {url:"./bower_components/normalize.css/normalize.css"},
         {url:"./bower_components/typeplate-starter-kit/css/typeplate.css"},
         {url: "./dist/style.css"},
+        {url: "main/css/bootstrap.min.css"},
+        {url: "main/css/stylish-portfolio.css"},
+
         //js
         {url: "./bower_components/jquery/dist/jquery.min.js"},
         {url: "./bower_components/lodash/dist/lodash.min.js"},
